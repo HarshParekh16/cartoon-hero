@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+}
+header{
+	background-color: silver;
+	text-align: center;
+}
+header img{
+	border-radius: 150px;
+}
