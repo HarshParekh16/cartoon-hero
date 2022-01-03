@@ -4,7 +4,11 @@ body{
 header{
 	background-color: silver;
 	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 header img{
-	border-radius: 150px;
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid white;
 }
